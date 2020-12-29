@@ -18,3 +18,7 @@ Create a Java script program to manage the Movies database stored in movies.json
 1. Run `cd [folder name]`.
 2. Run `npm install` this will install all the dependencies.
 3. Run `npm start` to start project.
+
+## For Api Documenttation
+
+[Click here to check doc](https://documenter.getpostman.com/view/1166373/TVt17PnR)
